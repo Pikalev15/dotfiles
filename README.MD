@@ -18,11 +18,11 @@ other waybars other than island were acquired from the waybar examples page!
 
 # TODO
  - [ ] Set up Matugen
- - [ ]Set up hyprpicker
- - [ ]Tweak swaync
- - [ ]set up html on start
- - [ ]make proper windowrules
- - [ ]proper cliphist setup
+ - [ ] Set up hyprpicker
+ - [ ] Tweak swaync
+ - [ ] set up html on start
+ - [ ] make proper windowrules
+ - [ ] proper cliphist setup
 
 
 # Progress
