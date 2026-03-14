@@ -9,19 +9,20 @@ shoutout to claude for troubleshooting
 other waybars other than island were acquired from the waybar examples page!
 
 # Features
-Full theme switcher intergration
-wallpaper switcher
-waybar switcher
-nwg-dock-hyprland
-snappy-switcher for ALT TAB
-full gtk theme switching
+- Full theme switcher intergration
+- wallpaper switcher
+- waybar switcher
+- nwg-dock-hyprland
+- snappy-switcher for ALT TAB
+- full gtk theme switching
+
 # TODO
- -[] Set up Matugen
- -[]Set up hyprpicker
- -[]Tweak swaync
- -[]set up html on start
- -[]make proper windowrules
- -[]proper cliphist setup
+ - [ ] Set up Matugen
+ - [ ]Set up hyprpicker
+ - [ ]Tweak swaync
+ - [ ]set up html on start
+ - [ ]make proper windowrules
+ - [ ]proper cliphist setup
 
 
 # Progress
