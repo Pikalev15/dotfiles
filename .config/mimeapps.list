@@ -1,0 +1,7 @@
+[Default Applications]
+application/x-shellscript=nvim.desktop
+text/x-csrc=nvim.desktop
+
+[Added Associations]
+application/x-shellscript=nvim.desktop;
+text/x-csrc=nvim.desktop;

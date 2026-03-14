@@ -1,0 +1,12 @@
+2026/03/14-11:47:59.709 971 Reusing MANIFEST /home/lev15/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/03/14-11:47:59.710 971 Recovering log #4
+2026/03/14-11:47:59.733 971 Reusing old log /home/lev15/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2026/03/14-12:05:36.327 971 Level-0 table #8: started
+2026/03/14-12:05:36.405 971 Level-0 table #8: 1795178 bytes OK
+2026/03/14-12:05:36.412 971 Delete type=0 #4
+2026/03/14-12:22:34.269 96f Compacting 1@1 + 1@2 files
+2026/03/14-12:22:34.294 96f Generated table #9@1: 381 keys, 64779 bytes
+2026/03/14-12:22:34.294 96f Compacted 1@1 + 1@2 files => 64779 bytes
+2026/03/14-12:22:34.302 96f compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/03/14-12:22:34.302 96f Delete type=2 #8
+2026/03/14-12:22:34.303 96f Delete type=2 #5

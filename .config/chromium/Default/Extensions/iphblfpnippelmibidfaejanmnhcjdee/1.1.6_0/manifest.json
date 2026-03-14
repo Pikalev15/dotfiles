@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/icon128.png",
+         "16": "icons/icon16.png",
+         "32": "icons/icon32.png",
+         "48": "icons/icon48.png"
+      },
+      "default_title": "Quick add bookmark"
+   },
+   "background": {
+      "service_worker": "bg.js"
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'; frame-src https://www.openstreetmap.org https://*.openstreetmap.org https://www.youtube.com https://*.youtube.com https://www.youtube-nocookie.com https://*.youtube-nocookie.com https://music.youtube.com https://open.spotify.com https://*.open.spotify.com https://soundcloud.com https://*.soundcloud.com https://w.soundcloud.com"
+   },
+   "description": "Glass-style new tab dashboard. Search uses Chrome Search API and respects the user's default search engine.",
+   "host_permissions": [ "https://api.open-meteo.com/*", "http://*/*", "https://*/*" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk1SQjzGoNVZBt1U/kSYeBxt13rMD4s8toz02iocHvFrZmsmeUW0s1I+K2G51WIZIxhjlj2MF3WlZVFcn8M16NV8jXi6MBd+6ELnnBalI1MVfYgTEChxkPA5c2wr1vItRLXQ5wEEMzJlS0XQuECJnxETA4/ZIvqXEGDVQEr7eIXOioqYXKfyaWg1/uyt9n0TWgUFou2rYArvw6mLGUGaXKjQde4mSHLG5tMQApodA0nlYQiVoHe6ZA2hEmyWCEYvxcsK7m0EdQUjdDKZHFrR1Wcw6QxAxqpbMOUrjYiXK7v3uaCLkWqsz7iSQzfPhQ8DhX9yvSaDK5UmE6+vctTWUjQIDAQAB",
+   "manifest_version": 3,
+   "name": "GNTD: Glass New Tab Dashboard",
+   "permissions": [ "storage", "tabs", "contextMenus", "search", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.6"
+}
