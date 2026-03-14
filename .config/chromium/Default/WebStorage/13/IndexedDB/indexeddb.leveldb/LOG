@@ -1,7 +1,0 @@
-2026/03/12-13:45:04.913 6a7 Reusing MANIFEST /home/lev15/.config/chromium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2026/03/12-13:45:04.914 6a7 Recovering log #3
-2026/03/12-13:45:04.919 6a7 Reusing old log /home/lev15/.config/chromium/Default/WebStorage/13/IndexedDB/indexeddb.leveldb/000003.log 
-2026/03/12-19:17:28.478 6a7 Level-0 table #5: started
-2026/03/12-19:17:28.506 6a7 Level-0 table #5: 680306 bytes OK
-2026/03/12-19:17:28.517 6a7 Delete type=0 #3
-2026/03/12-19:17:28.517 6a7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

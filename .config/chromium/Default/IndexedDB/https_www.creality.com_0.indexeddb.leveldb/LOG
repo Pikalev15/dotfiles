@@ -1,6 +1,0 @@
-2026/03/12-12:33:37.592 cdd Creating DB /home/lev15/.config/chromium/Default/IndexedDB/https_www.creality.com_0.indexeddb.leveldb since it was missing.
-2026/03/12-12:33:37.608 cdd Reusing MANIFEST /home/lev15/.config/chromium/Default/IndexedDB/https_www.creality.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/03/12-12:34:44.707 cdf Level-0 table #5: started
-2026/03/12-12:34:44.710 cdf Level-0 table #5: 881 bytes OK
-2026/03/12-12:34:44.714 cdf Delete type=0 #3
-2026/03/12-12:34:44.715 cdf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
