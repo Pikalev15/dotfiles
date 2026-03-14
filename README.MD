@@ -23,14 +23,15 @@ full gtk theme switching
  -[]make proper windowrules
  -[]proper cliphist setup
 
+
 # Progress
--[x] Hyprland
--[x] Hyprlock
--[x] Rofi
--[x] Waybar
--[x] Swaync
--[x] Wlogout
--[x] nwg-dock-hyprland
+- [x] Hyprland
+- [x] Hyprlock
+- [x] Rofi
+- [x] Waybar
+- [x] Swaync
+- [x] Wlogout
+- [x] nwg-dock-hyprland
 
 Thanks to
-[saneaspect] (https://github.com/saneaspect) for yt videos to learn how to set up hyprland efficiently!
+- [saneaspect] (https://github.com/saneaspect) for yt videos to learn how to set up hyprland efficiently!
