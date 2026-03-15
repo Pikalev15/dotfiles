@@ -9,8 +9,6 @@ shoutout to claude for troubleshooting
 other waybars other than island were acquired from the waybar examples page!
 
 # Features
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 - Full theme switcher intergration
 - wallpaper switcher
 - waybar switcher
@@ -66,7 +64,3 @@ full gtk theme switching
 
 Thanks to
 [saneaspect] (https://github.com/saneaspect) for yt videos to learn how to set up hyprland efficiently!
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
